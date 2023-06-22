@@ -1,2 +1,2 @@
 # ccdmatching
-Stata and Python code for methods to link school names to CCD data
+This folder provides code for methods to link school information (school name, city, and state abbreviation) to CCD data. This includes an example of the reclink procedure for linking with downloaded CCD data in a Stata do-file and also a Python web scraper using Selenium and Beautiful Soup to interact with and then scrape the NCES public school search website (https://nces.ed.gov/ccd/schoolsearch/). 
